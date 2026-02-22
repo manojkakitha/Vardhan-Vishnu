@@ -113,8 +113,43 @@
         "contact": {
             "email": "hello@vardhanvishnu.com",
             "instagram": "vardhanvishnu.nef",
-            "location": "Mumbai • Global",
-            "availability": "Booking Winter '24"
-        }
+            "location": "Mumbai • Global"
+        },
+        "availability": "Booking Winter '24"
+    },
+    "stack": {
+        "main": "images/stack/main.webp",
+        "sections": [
+            {
+                "title": "Vision / Hardware",
+                "items": [
+                    {
+                        "name": "Fujifilm GFX 100S",
+                        "details": "Medium Format Digital"
+                    },
+                    {
+                        "name": "GF 80mm f/1.7",
+                        "details": "Primary Optics"
+                    },
+                    {
+                        "name": "Leica M11",
+                        "details": "35mm Digital Rangefinder"
+                    }
+                ]
+            },
+            {
+                "title": "Process / Software",
+                "items": [
+                    {
+                        "name": "Capture One Pro",
+                        "details": "Raw Development"
+                    },
+                    {
+                        "name": "Dehancer Pro",
+                        "details": "Film Emulation"
+                    }
+                ]
+            }
+        ]
     }
 }
